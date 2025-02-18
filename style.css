@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8e1f4; 
+    font-family: 'Poppins', sans-serif; 
+    color: #6b4f9c; 
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 3.5em;
+    color: #f8a9b3; 
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+p1 {
+    font-size: 1.4em;
+    color: #d689a1; 
+    font-weight: 300;
+    margin: 10px 0;
+    line-height: 1.8;
+}
+
+
+
+
+
